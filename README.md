@@ -1,4 +1,4 @@
-# ANTMINER - Bally AS-2518-51 Sound Board
+# ANTMINER - Bally Pinball AS-2518-51 Sound Board
 ![Model](bally-as-2518-51.jpg)
 ![Model](ANTMINER-Arcade_v1.2.jpg)
 
